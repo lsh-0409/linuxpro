@@ -1,2 +1,0 @@
-int memo();
-int calendar();
