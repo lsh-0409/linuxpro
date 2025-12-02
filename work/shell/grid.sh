@@ -1,4 +1,5 @@
 #!/bin/bash
+# sudo dnf install xterm wmctrl로 패키지 설치 필요
 
 i=0
 if [[ $TERM != "xterm-256color" ]]; then
